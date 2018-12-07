@@ -1,0 +1,6 @@
+com\maven\MavenTest.class
+com\orangehrm\utils\ConfigPage.class
+com\orangehrm\test\LoginTest.class
+com\orangehrm\utils\CommonMethods.class
+com\orangehrm\utils\BaseClass.class
+com\orangehrm\page\LoginPage.class
